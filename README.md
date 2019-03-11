@@ -1,6 +1,8 @@
 # Matchstick
 Creation du jeu marienbad en C
 
+Fonctions autorisées : read, write, malloc, free, time, getpid, random, srandom and getline.
+
 This project is based on a very famous game based on matchsticks.
 There is a certain number of matchstick lines.
 The two players take turns; each player can, on a same line, take one or several matchsticks.
